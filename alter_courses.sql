@@ -1,0 +1,20 @@
+
+alter table courses modify fee varchar2(10);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
